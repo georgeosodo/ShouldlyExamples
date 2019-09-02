@@ -1,0 +1,12 @@
+C:\Users\gosodo\source\repos\Democode\Democode\bin\Debug\netcoreapp3.0\Democode.exe
+C:\Users\gosodo\source\repos\Democode\Democode\bin\Debug\netcoreapp3.0\Democode.deps.json
+C:\Users\gosodo\source\repos\Democode\Democode\bin\Debug\netcoreapp3.0\Democode.runtimeconfig.json
+C:\Users\gosodo\source\repos\Democode\Democode\bin\Debug\netcoreapp3.0\Democode.runtimeconfig.dev.json
+C:\Users\gosodo\source\repos\Democode\Democode\bin\Debug\netcoreapp3.0\Democode.dll
+C:\Users\gosodo\source\repos\Democode\Democode\bin\Debug\netcoreapp3.0\Democode.pdb
+C:\Users\gosodo\source\repos\Democode\Democode\obj\Debug\netcoreapp3.0\Democode.csprojAssemblyReference.cache
+C:\Users\gosodo\source\repos\Democode\Democode\obj\Debug\netcoreapp3.0\Democode.csproj.CoreCompileInputs.cache
+C:\Users\gosodo\source\repos\Democode\Democode\obj\Debug\netcoreapp3.0\Democode.AssemblyInfoInputs.cache
+C:\Users\gosodo\source\repos\Democode\Democode\obj\Debug\netcoreapp3.0\Democode.AssemblyInfo.cs
+C:\Users\gosodo\source\repos\Democode\Democode\obj\Debug\netcoreapp3.0\Democode.dll
+C:\Users\gosodo\source\repos\Democode\Democode\obj\Debug\netcoreapp3.0\Democode.pdb
